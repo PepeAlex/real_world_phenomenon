@@ -11,7 +11,7 @@
 ### Author: Alexander Pepe
 
 
-  This work is part of the discipline of  Programming for Data Analysis and is based on the creation of a Data Set simulating a Real-World phenomenon and I demonstrated what was required in the project with Jupyter Notebook and described the step by step relationship between the variables and thereby generating project completion. It was delivered in Jupyter Notebook and you can access by link https://github.com/PepeAlex/real_world_phenomenon/blob/master/SIMULATING_A_PHENOMENON.ipynb. 
+  This work is part of the discipline of  Programming for Data Analysis and is based on the creation of a Data Set simulating a Real-World phenomenon and I demonstrated what was required in the project with Jupyter Notebook and described the step by step relationship between the variables and thereby generating project completion. You can access by link https://github.com/PepeAlex/real_world_phenomenon/blob/master/SIMULATING_A_PHENOMENON.ipynb. 
 
 
 ## CONTENTS
